@@ -1,0 +1,9 @@
+edit audio
+js
+get text
+
+  + "\" + \
+                            data[user.last_name][
+                                "course"] + "\" + \
+                            data[user.last_name]["group"] + "\" + unit + "\" + str(
+                    datetime.date.today()) + "\" + user.last_name + "$" +
